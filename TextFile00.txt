@@ -1,3 +1,0 @@
-TextFile00
-
-An added line as well
