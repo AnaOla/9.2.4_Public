@@ -1,3 +1,5 @@
 file_2
 
 an added line
+
+the second added line
